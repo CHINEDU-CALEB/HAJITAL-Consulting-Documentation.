@@ -40,5 +40,36 @@ In the initial phase of the data cleaning and preparations, we performed the fol
 
 EDA involves the exploring of the data to anwswer some questions about the data such as:
 
-- what is 
+- What is the Total Sales/ Revenue?
+- Which products are top Sales?
+- What are the product on peak sales?
 
+## DATA ANALYSIS
+
+This is Where we include some basic lines of code or query oe where some of the DAX Expressions used during the anlysis ( IF ANY).
+Example:
+~SELECT,
+~FROM TABLE
+
+## RESULTS/ FINDINGS
+
+This is where you put the insjght from the analysis
+1. The company's sales have been progressively rising from the period of a specific time.
+2. It has a set back at another point due to a particular trend that was observed along the line of analysis.
+3. Customer segment with high lifetime value can be targeted for marketing effort
+4. and all other observations from the analysis.
+
+## LIMITATIONS
+
+WWhat are the trends observed that can affect the accuracy of the conclusions.
+Then also do well to remove outliers that are observed while working on the project.
+Remove unnecessary columns for better optimization of your business models.
+
+## REFERENCES
+
+- SQL for Business Analysis
+- Google Business Processes
+- [Stadeoverflow](link)
+
+
+- 
